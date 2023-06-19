@@ -1,0 +1,23 @@
+.home-page {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	max-width: 800px;
+}
+
+.logoImage {
+	max-width: 200px;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+.header-card {
+	background-color: #242424;
+}
+
+.card-content {
+	border: 1px solid red;
+	padding: 16px;
+}
